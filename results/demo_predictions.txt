@@ -1,0 +1,21 @@
+LIVE PREDICTION DEMO RESULTS
+==================================================
+
+Thread: Anti-immigration hate thread
+  Result: HARMFUL (3/3 harmful)
+
+Thread: Cyberbullying thread
+  Result: HARMFUL (3/3 harmful)
+
+Thread: Incitement to violence thread
+  Result: HARMFUL (3/3 harmful)
+
+Thread: Academic discussion thread
+  Result: NON-HARMFUL (0/3 harmful)
+
+Thread: Positive/supportive thread
+  Result: NON-HARMFUL (0/3 harmful)
+
+Thread: Civil debate thread
+  Result: NON-HARMFUL (0/3 harmful)
+
