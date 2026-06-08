@@ -10,6 +10,7 @@ Context-aware harmful sentiment detection in Twitter threads using bidirectional
 - NLTK (text preprocessing)
 - scikit-learn (evaluation metrics, cross-validation)
 - matplotlib / seaborn (visualization)
+- Dataset: Davidson et al. Hate Speech & Offensive Language (CSV) – 25k tweets labeled for harmful content
 - Dataset: [Davidson et al. Hate Speech & Offensive Language](https://github.com/t-davidson/hate-speech-and-offensive-language)
 
 ## Setup
