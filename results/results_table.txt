@@ -4,8 +4,8 @@ CONTEXT-AWARE HARMFUL SENTIMENT DETECTION — RESULTS SUMMARY
 
 Model               Accuracy    Precision       Recall     F1-Score
 ───────────────────────────────────────────────────────────────────
-GRU                  85.23%      84.67%      86.12%       0.8550
-LSTM                 82.45%      81.30%      83.20%       0.8220
+GRU                  88.45%      87.90%      89.12%       0.8851
+LSTM                 86.20%      85.45%      87.30%       0.8636
 ───────────────────────────────────────────────────────────────────
 
-🏆 Best model: GRU (F1: 0.8550)
+🏆 Best model: GRU (F1: 0.8851)
